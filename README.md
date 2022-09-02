@@ -6,9 +6,13 @@ while(true)
 ```
 
 <p align="center">
-  <img class = "gatsby-resp-image-image" src = "/gifs/sonic.gif", height = 150, style = "padding: 100">
+  <img class = "gatsby-resp-image-image" src = "/gifs/sonic.gif", height = 125, style = "padding: 100">
+  <img class = "gatsby-resp-image-image" src = "/gifs/blank.png", width = 50>
   <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+  <img class = "gatsby-resp-image-image" src = "/gifs/blank.png", width = 50>
   <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+  <img class = "gatsby-resp-image-image" src = "/gifs/blank.png", width = 50>
   <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+  <img class = "gatsby-resp-image-image" src = "/gifs/blank.png", width = 50>
   <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
 </p>
