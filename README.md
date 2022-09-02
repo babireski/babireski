@@ -1,16 +1,14 @@
-### Hi there 👋
+```java
+while(true)
+{
+    sonic.run();
+}
+```
 
-<!--
-**babireski/babireski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img class = "gatsby-resp-image-image" src = "/gifs/sonic.gif", height = 150, style = "padding: 100">
+  <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+  <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+  <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+  <img class = "gatsby-resp-image-image" src = "/gifs/ring.gif", height = 100>
+</p>
