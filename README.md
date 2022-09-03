@@ -23,6 +23,6 @@ while(true)
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babireski&layout=compact&hide_border=true&hide_title=true&bg_color="161b22"" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babireski&layout=compact&bg_color=161b22&hide_border=true&hide_title=true&text_color=c9d1d9" />
     </a>
 </p>
